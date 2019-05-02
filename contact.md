@@ -13,7 +13,17 @@ permalink: /contact/
 
 ## 投稿
 
-请发邮件至 {% email john.doe@example.com %}
+
+
+<script language="JavaScript" type="text/javascript">
+  var u = "981242716";
+  var arr = "@";
+  var d = "qq";
+  var dot = ".";
+  var t = "com";
+  document.write("请发邮件至" + "<a href=" + "mail" + "to:" + u + arr + d + dot + t
+        + ">" + "此邮箱" + "</a>" + "。");
+</script>
 
 ## 联系编辑
 
