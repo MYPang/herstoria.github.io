@@ -28,4 +28,3 @@ permalink: /contact/
 ## 联系编辑
 
 - 主编：[@陆贽](https://www.zhihu.com/people/ru-shi-shuo-59)
-- 学术编辑：[@Ding](https://www.zhihu.com/people/shannon403)
