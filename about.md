@@ -39,6 +39,6 @@ permalink: /about/
 ## 社交平台
 
 - [知乎专栏](https://zhuanlan.zhihu.com/herstoria)
-- 微信公众号（“Her小号”，或请扫描下方二维码）
+- 微信公众号（「Her小号」，或请扫描下方二维码）
 
 ![](images/footer.jpg)
