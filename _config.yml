@@ -53,7 +53,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: <a href="https://zhuanlan.zhihu.com/herstoria">知乎专栏</a> | <a href="{{ site.baseurl }}/contact">微信公众号</a><br /><br />© <script type="text/javascript">document.write(new Date().getFullYear());</script> Herstoria
+footer-text: <a href="https://zhuanlan.zhihu.com/herstoria">知乎专栏</a> | <a href="https://herstoria.me/contact">微信公众号</a><br /><br />© <script type="text/javascript">document.write(new Date().getFullYear());</script> Herstoria
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
