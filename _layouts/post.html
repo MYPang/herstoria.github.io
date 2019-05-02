@@ -29,14 +29,14 @@ layout: default
     {% if page.previous.url %}
       <span class="prev" >
           <a href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
-            前一篇《{{ page.previous.title }}》
+            前一篇：<br />{{ page.previous.title }}
           </a>
       </span>
     {% endif %}
     {% if page.next.url %}
       <span class="next" >
           <a href="{{ site.url }}{{ site.baseurl }}{{ page.next.url }}">
-            《{{ page.next.title }}》后一篇
+            后一篇：<br />{{ page.next.title }}
           </a>
       </span>
     {% endif %}
